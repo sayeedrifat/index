@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Md. Abu Sayeed</h1>
+<h1 align="center">Hi there 👋, I'm Abu Sayeed Rifat</h1>
 
 <p align="center">
 🚀 Backend Developer | 🛠️ Automation Engineer | 💡 Problem Solver  
@@ -34,7 +34,14 @@
 <code><img height="30" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></code>
 
 ---
+### 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakil-here&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakil-here&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/>
+</p>
+
+---
 ### 🌐 Connect with Me
 
 <p align="left">
@@ -48,14 +55,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakil-here&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakil-here&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/>
-</p>
-
----
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shakil-here&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="200"/>
